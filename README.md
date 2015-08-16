@@ -13,8 +13,8 @@ _斜体_
 
 >块引用,写代码的地方
 
-*red 
-*green
-*blue
-+red
--red
+* red 
+* green
+* blue
++ red
+- red
