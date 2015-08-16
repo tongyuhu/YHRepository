@@ -26,4 +26,4 @@ This is [baidu][id]reference-style link
 
 <http://www.baidu.com>
 
-![github logo](/imgage/image.png)
+![github logo](/imgages/longgui.png)
