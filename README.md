@@ -27,3 +27,12 @@ This is [baidu][id]reference-style link
 <http://www.baidu.com>
 
 ![github logo](/images/longgui.png)
+
+![github logo][logo]
+[logo]: /images/longgui.png "Optional title attribute"
+
+```object-c
+for(int i = 0; i<5; i++)
+{
+  NSLog(@"test");
+}
