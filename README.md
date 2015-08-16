@@ -13,8 +13,10 @@ _斜体_
 
 >块引用,写代码的地方
 
-* red 
-* green
-* blue
-+ red
-- red
+* list 
++ list
+- list
+
+1. list
+2. list
+3. list
