@@ -17,7 +17,7 @@ for(int i = 0; i<5; i++)
 ```
 _斜体_
 
->块引用,写代码的地方
+>This is [baidu][urlId]
 
 * list 
 + list
@@ -27,8 +27,8 @@ _斜体_
 2. list
 3. list
 
-[id]: http://www.baidu.com  "百度"
-This is [baidu][id]reference-style link
+[urlId]: http://www.baidu.com  "百度"
+This is [baidu][urlId]
 
 <http://www.baidu.com>
 
