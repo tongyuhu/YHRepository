@@ -9,6 +9,12 @@ __粗体__
 二级标题
 -------
 *斜体*
+```object-c
+for(int i = 0; i<5; i++)
+{
+  NSLog(@"test");
+}
+```
 _斜体_
 
 >块引用,写代码的地方
@@ -34,5 +40,6 @@ This is [baidu][id]reference-style link
 ```object-c
 for(int i = 0; i<5; i++)
 {
-  NSLog(@"test");
+    NSLog(@"test");
 }
+```
