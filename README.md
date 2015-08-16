@@ -20,3 +20,10 @@ _斜体_
 1. list
 2. list
 3. list
+
+[id]: http://www.baidu.com  "百度"
+This is [baidu][id]reference-style link
+
+<http://www.baidu.com>
+
+![github logo](/imgage/image.png)
